@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dojayuli
-- 👀 I’m interested in technologi
-- 🌱 I’m currently learning  programación
-- 💞️ I’m looking to collaborate on  empresas
-- 📫 How to reach me ...
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning  programming
+- 💞️ I’m looking to collaborate on business
+- 📫 How to reach me email
 
 <!---
 dojayuli/dojayuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
