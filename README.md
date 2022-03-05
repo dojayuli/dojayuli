@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dojayuli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  programaci,on
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in technologi
+- 🌱 I’m currently learning  programación
+- 💞️ I’m looking to collaborate on  empresas
 - 📫 How to reach me ...
 
 <!---
